@@ -50,7 +50,8 @@ public class DataType {
 		System.out.println("Current year:"+CurntYear);
 		
 		//11.Number of followers on a social media platform: 1,000,000
-		int NoOfFollowers = 1000000;
+		//int NoOfFollowers = 1000000;--got the comment from Bharath sir, then changed to String
+		String NoOfFollowers ="1,000,000";
 		System.out.println("Number of followers on a social media platform:" +NoOfFollowers);
 		
 		//12.Rating of a movie: 7.5
